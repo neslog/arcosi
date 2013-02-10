@@ -4,6 +4,4 @@
 <br>
 
 
-![alt text](http://s3.amazonaws.com/totem_production/assets/logos/2556/original/Logo_Final-01.jpg?1356375284 "THREAT STREAM Inc.")
-
-
+<img src="http://s3.amazonaws.com/totem_production/assets/logos/2556/original/Logo_Final-01.jpg?1356375284">
