@@ -1,16 +1,8 @@
-ArcOSI is the leading Open Source Threat Intelligence tool for ArcSight ESM.  
+= ArcOSI is no longer maintained..  =
+<br>But don't lose hope!  ArcOSI users are invited to upgrade toTHREAT STREAM Core for Free!  
+<br> THREAT STREAM Core takes OSINT and ArcSight SIEM to a whole new level!
+<br>
 
+<a href="http://www.threatstream.com"><img src="http://s3.amazonaws.com/totem_production/assets/logos/2556/original/Logo_Final-01.jpg?1356375284">
 
-It work's by scraping websites for malicious Domains or IP's and then forwards them to an ArcSight Syslog Smart Connector in CEF format.
-
-You can simply run it as is with lots of default intel sources, just point it to your Syslogd: ./arcosi.py <syslog ip>
-
-Specify a custom port?  Easy, ./arcosi.py -p <custom port> <syslog ip>
-
-How about supply your own threat intelligence sites with IP or Domain names?  Supply a config file (like the one supplied)  ./arcosi.py -c arcosi.cfg <syslog ip>
-
-We also have a single exe version for Windows!
-
-Thanks and please let us know your feedback.
-
--Greg
+[http://www.threatstream.com]
