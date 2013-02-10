@@ -4,4 +4,4 @@
 <br>
 
 
-<img src="http://s3.amazonaws.com/totem_production/assets/logos/2556/original/Logo_Final-01.jpg?1356375284">
+<a href="http://www.threatstream.com"><img src="http://s3.amazonaws.com/totem_production/assets/logos/2556/original/Logo_Final-01.jpg?1356375284"></a>
